@@ -1,0 +1,38 @@
+body{
+    display: flex;
+}
+
+.contenedor{
+    border: 10px solid #ccc;
+    margin: 0 auto;
+    width: 70%;
+    background: rgb(106, 206, 211);
+    padding: 15px;
+    
+}
+
+.principal{
+    background: #c3cdce;
+    padding: 10px;
+}
+
+.img{
+    width: 150px;
+    height: 150px;
+}
+
+.header{
+    display: flex;
+
+}
+
+.nombre{
+    margin-left: 40px;
+    width: 100%;
+}
+
+.titulo{
+    border: 1px solid #0CB1BF;
+    color: #0CB1BF;
+    
+}
